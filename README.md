@@ -1,5 +1,5 @@
-## Estudante amante da tecnologia!
-<p>📚 Atualmente estudando Java e buscando uma oportunidade como Dev. Trainee!</p>
+## Desenvolvedor Back-End
+<p>📚 Atualmente estudando Java e buscando uma oportunidade como programador</p>
 <p>📩 Email: <a href="mailto:luizdiego.silvabarbosa@gmail.com">luizdiego.silvabarbosa@gmail.com</a></p>
 
 <a href="https://github.com/Diego-SLuiz">
