@@ -1,12 +1,12 @@
 ## Desenvolvedor Back-End
-<p>📚 Atualmente estudando Java e buscando uma oportunidade como programador</p>
+<p>📚 Atualmente estudando Java e Spring Boot</p>
 <p>📩 Email: <a href="mailto:luizdiego.silvabarbosa@gmail.com">luizdiego.silvabarbosa@gmail.com</a></p>
 
 <a href="https://github.com/Diego-SLuiz">
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Diego-SLuiz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Diego-SLuiz&layout=compact&langs_count=7&theme=dark"/>
+  <img display="block" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Diego-SLuiz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img display="block" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Diego-SLuiz&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
