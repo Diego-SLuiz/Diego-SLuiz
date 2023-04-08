@@ -1,4 +1,4 @@
-## Analista de Suporte
+## Analista de Suporte Técnico
 <p>📚 Atualmente estudando Java e Spring Boot</p>
 <p>📩 Email: <a href="mailto:luizdiego.silvabarbosa@gmail.com">luizdiego.silvabarbosa@gmail.com</a></p>
 
